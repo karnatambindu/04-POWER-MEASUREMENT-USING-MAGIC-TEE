@@ -64,6 +64,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
 
 **Isolation measurement** (Tabulation)
+<img width="1280" height="338" alt="image" src="https://github.com/user-attachments/assets/3f032cee-b097-4ded-8f9a-9095cdbe3afd" />
 
 **Measurement of power division** (Tabulation)
 
